@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "base",
+      "name": "Set de Base",
+      "cards": [
+        {
+          "id": "base-001",
+          "name": "Bulbizarre",
+          "type": "PLANTE",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/44_hires.png",
+          "number": 1,
+          "hp": 40,
+          "description": "Il y a une graine sur son dos. Elle grandit avec lui depuis sa naissance."
+        },
+        {
+          "id": "base-002",
+          "name": "Herbizarre",
+          "type": "PLANTE",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png",
+          "number": 2,
+          "hp": 60,
+          "description": "Quand le bulbe sur son dos commence à gonfler, une agréable odeur s'en dégage."
+        },
+        {
+          "id": "base-003",
+          "name": "Florizarre",
+          "type": "PLANTE",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
+          "number": 3,
+          "hp": 80,
+          "description": "La grande fleur sur son dos utilise la lumière solaire pour sa photosynthèse."
+        },
+        {
+          "id": "base-004",
+          "name": "Salamèche",
+          "type": "FEU",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/46_hires.png",
+          "number": 4,
+          "hp": 50,
+          "description": "La flamme au bout de sa queue indique son état. Elle vacille si le Pokémon est en bonne santé."
+        },
+        {
+          "id": "base-005",
+          "name": "Reptincel",
+          "type": "FEU",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/40_hires.png",
+          "number": 5,
+          "hp": 70,
+          "description": "Quand il prend de l'assurance et de la puissance, les flammes de sa queue deviennent plus grandes."
+        },
+        {
+          "id": "base-006",
+          "name": "Dracaufeu",
+          "type": "FEU",
+          "rarity": 4,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
+          "number": 6,
+          "hp": 120,
+          "description": "Il crache un feu si chaud qu'il fait fondre les rochers. Ses ailes lui permettent de voler."
+        },
+        {
+          "id": "base-007",
+          "name": "Carapuce",
+          "type": "EAU",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/47_hires.png",
+          "number": 7,
+          "hp": 40,
+          "description": "Sa carapace est solide comme du roc. Il la retire pour dormir."
+        },
+        {
+          "id": "base-008",
+          "name": "Carabaffe",
+          "type": "EAU",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/42_hires.png",
+          "number": 8,
+          "hp": 60,
+          "description": "Sa carapace se durcit peu après sa naissance. Il pulvérise de l'eau depuis la bouche."
+        },
+        {
+          "id": "base-009",
+          "name": "Tortank",
+          "type": "EAU",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/16_hires.png",
+          "number": 9,
+          "hp": 100,
+          "description": "Une fois qu'il a verrouillé sa cible, il ne la rate jamais avec ses puissants jets d'eau."
+        },
+        {
+          "id": "base-010",
+          "name": "Pikachu",
+          "type": "ELECTRIK",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/58_hires.png",
+          "number": 10,
+          "hp": 40,
+          "description": "Quand plusieurs se rassemblent, leur électricité peut provoquer des orages."
+        },
+        {
+          "id": "base-011",
+          "name": "Raichu",
+          "type": "ELECTRIK",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/14_hires.png",
+          "number": 11,
+          "hp": 80,
+          "description": "Il peut stocker 100 000 volts. Si la charge devient trop grande, il décharge autour de lui."
+        },
+        {
+          "id": "base-012",
+          "name": "Mewtwo EX",
+          "type": "PSY",
+          "rarity": 0,
+          "isEX": true,
+          "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
+          "number": 12,
+          "hp": 150,
+          "description": "Il a été créé par manipulation génétique. Son ADN est presque identique à celui de Mew."
+        },
+        {
+          "id": "base-013",
+          "name": "Abra",
+          "type": "PSY",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png",
+          "number": 13,
+          "hp": 30,
+          "description": "Il dort 18h par jour mais peut utiliser ses pouvoirs psioniques même en dormant."
+        },
+        {
+          "id": "base-014",
+          "name": "Machoc",
+          "type": "COMBAT",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/52_hires.png",
+          "number": 14,
+          "hp": 50,
+          "description": "Il maîtrise de nombreuses techniques de combat. Il affronte des Pokémon bien plus puissants."
+        },
+        {
+          "id": "base-015",
+          "name": "Machampion EX",
+          "type": "COMBAT",
+          "rarity": 0,
+          "isEX": true,
+          "imageUrl": "https://images.pokemontcg.io/base1/8_hires.png",
+          "number": 15,
+          "hp": 140,
+          "description": "Ses quatre bras se déplacent si vite qu'ils sont invisibles. Chaque poing peut frapper 500 fois par seconde."
+        },
+        {
+          "id": "base-016",
+          "name": "Minidraco",
+          "type": "DRAGON",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/53_hires.png",
+          "number": 16,
+          "hp": 50,
+          "description": "Ce Pokémon est rare dans la nature. On dit qu'il vit dans les abysses de lacs immenses."
+        },
+        {
+          "id": "base-017",
+          "name": "Draco EX",
+          "type": "DRAGON",
+          "rarity": 0,
+          "isEX": true,
+          "imageUrl": "https://images.pokemontcg.io/base1/5_hires.png",
+          "number": 17,
+          "hp": 180,
+          "description": "Ce Pokémon est si rare qu'il est dit comme mythique. Des tempêtes violentes se déclenchent à son passage."
+        },
+        {
+          "id": "base-018",
+          "name": "Évoli",
+          "type": "NORMAL",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/51_hires.png",
+          "number": 18,
+          "hp": 50,
+          "description": "Son code génétique instable lui permet d'évoluer en plusieurs formes différentes."
+        },
+        {
+          "id": "base-019",
+          "name": "Aquali",
+          "type": "EAU",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png",
+          "number": 19,
+          "hp": 70,
+          "description": "Ses cellules peuvent retenir de l'eau. Il contrôle l'eau librement."
+        },
+        {
+          "id": "base-020",
+          "name": "Pyroli",
+          "type": "FEU",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png",
+          "number": 20,
+          "hp": 70,
+          "description": "Il accumule de la chaleur dans ses cellules. Quand il souffle, un souffle enflammé sort."
+        }
+      ]
+    }
+  ]
+}
