@@ -58,6 +58,30 @@
 { "id": "base-037", "name": "Nidorina", "type": "POISON", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/39_hires.png", "number": 37, "hp": 70, "description": "" },
 { "id": "base-038", "name": "Nidoqueen", "type": "POISON", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/7_hires.png", "number": 38, "hp": 90, "description": "" }
 
+      ]},
+    {
+      "id": "jungle",
+      "name": "Jungle",
+      "cards": [
+        { "id": "jungle-001", "name": "Rafflesia", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/1_hires.png", "number": 1, "hp": 80 },
+        { "id": "jungle-002", "name": "Empiflor", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/2_hires.png", "number": 2, "hp": 80 },
+        { "id": "jungle-003", "name": "Noadkoko", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/3_hires.png", "number": 3, "hp": 80 },
+
+        { "id": "jungle-004", "name": "Roucarnage", "type": "NORMAL", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/4_hires.png", "number": 4, "hp": 100 },
+        { "id": "jungle-005", "name": "Nidoqueen", "type": "POISON", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/5_hires.png", "number": 5, "hp": 90 },
+
+        { "id": "jungle-006", "name": "Flagadoss", "type": "EAU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/6_hires.png", "number": 6, "hp": 80 },
+        { "id": "jungle-007", "name": "Rhinoféros", "type": "COMBAT", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/7_hires.png", "number": 7, "hp": 90 },
+
+        { "id": "jungle-008", "name": "Électrode", "type": "ELECTRIK", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/8_hires.png", "number": 8, "hp": 90 },
+        { "id": "jungle-009", "name": "M. Mime", "type": "PSY", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/9_hires.png", "number": 9, "hp": 40 },
+
+        { "id": "jungle-010", "name": "Ronflex", "type": "NORMAL", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/10_hires.png", "number": 10, "hp": 90 },
+
+        { "id": "jungle-011", "name": "Évoli", "type": "NORMAL", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/51_hires.png", "number": 11, "hp": 50 },
+        { "id": "jungle-012", "name": "Aquali", "type": "EAU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/12_hires.png", "number": 12, "hp": 80 },
+        { "id": "jungle-013", "name": "Pyroli", "type": "FEU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/13_hires.png", "number": 13, "hp": 80 },
+        { "id": "jungle-014", "name": "Voltali", "type": "ELECTRIK", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/jungle/14_hires.png", "number": 14, "hp": 70 }
       ]
     }
   ]
