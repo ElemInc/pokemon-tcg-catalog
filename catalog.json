@@ -5,44 +5,33 @@
       "id": "base",
       "name": "Set de Base",
       "cards": [
-        { "id": "base-001", "name": "Bulbizarre", "type": "PLANTE", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/44_hires.png", "number": 1, "hp": 40 },
-        { "id": "base-002", "name": "Herbizarre", "type": "PLANTE", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png", "number": 2, "hp": 60 },
-        { "id": "base-003", "name": "Florizarre", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png", "number": 3, "hp": 80 },
+        { "id": "base-001", "name": "Bulbizarre", "type": "PLANTE", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/44_hires.png", "number": 1, "hp": 40, "description": "" },
+        { "id": "base-002", "name": "Herbizarre", "type": "PLANTE", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png", "number": 2, "hp": 60, "description": "" },
+        { "id": "base-003", "name": "Florizarre", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png", "number": 3, "hp": 80, "description": "" },
 
-        { "id": "base-004", "name": "Salamèche", "type": "FEU", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/46_hires.png", "number": 4, "hp": 50 },
-        { "id": "base-005", "name": "Reptincel", "type": "FEU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/40_hires.png", "number": 5, "hp": 70 },
-        { "id": "base-006", "name": "Dracaufeu", "type": "FEU", "rarity": 4, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png", "number": 6, "hp": 120 },
+        { "id": "base-004", "name": "Salamèche", "type": "FEU", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/46_hires.png", "number": 4, "hp": 50, "description": "" },
+        { "id": "base-005", "name": "Reptincel", "type": "FEU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/40_hires.png", "number": 5, "hp": 70, "description": "" },
+        { "id": "base-006", "name": "Dracaufeu", "type": "FEU", "rarity": 4, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png", "number": 6, "hp": 120, "description": "" },
 
-        { "id": "base-007", "name": "Carapuce", "type": "EAU", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/47_hires.png", "number": 7, "hp": 40 },
-        { "id": "base-008", "name": "Carabaffe", "type": "EAU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/42_hires.png", "number": 8, "hp": 60 },
-        { "id": "base-009", "name": "Tortank", "type": "EAU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/16_hires.png", "number": 9, "hp": 100 },
+        { "id": "base-007", "name": "Carapuce", "type": "EAU", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/47_hires.png", "number": 7, "hp": 40, "description": "" },
+        { "id": "base-008", "name": "Carabaffe", "type": "EAU", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/42_hires.png", "number": 8, "hp": 60, "description": "" },
+        { "id": "base-009", "name": "Tortank", "type": "EAU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/16_hires.png", "number": 9, "hp": 100, "description": "" },
 
-        { "id": "base-010", "name": "Pikachu", "type": "ELECTRIK", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/58_hires.png", "number": 10, "hp": 40 },
-        { "id": "base-011", "name": "Raichu", "type": "ELECTRIK", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/14_hires.png", "number": 11, "hp": 80 },
+        { "id": "base-010", "name": "Pikachu", "type": "ELECTRIK", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/58_hires.png", "number": 10, "hp": 40, "description": "" },
+        { "id": "base-011", "name": "Raichu", "type": "ELECTRIK", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/14_hires.png", "number": 11, "hp": 80, "description": "" },
 
-        { "id": "base-012", "name": "Mewtwo EX", "type": "PSY", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png", "number": 12, "hp": 150 },
-        { "id": "base-013", "name": "Abra", "type": "PSY", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/49_hires.png", "number": 13, "hp": 30 },
+        { "id": "base-012", "name": "Mewtwo EX", "type": "PSY", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png", "number": 12, "hp": 150, "description": "" },
+        { "id": "base-013", "name": "Abra", "type": "PSY", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/49_hires.png", "number": 13, "hp": 30, "description": "" },
 
-        { "id": "base-014", "name": "Machoc", "type": "COMBAT", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/52_hires.png", "number": 14, "hp": 50 },
-        { "id": "base-015", "name": "Machampion EX", "type": "COMBAT", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/8_hires.png", "number": 15, "hp": 140 },
+        { "id": "base-014", "name": "Machoc", "type": "COMBAT", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/52_hires.png", "number": 14, "hp": 50, "description": "" },
+        { "id": "base-015", "name": "Machampion EX", "type": "COMBAT", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/8_hires.png", "number": 15, "hp": 140, "description": "" },
 
-        { "id": "base-016", "name": "Minidraco", "type": "DRAGON", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/53_hires.png", "number": 16, "hp": 50 },
-        { "id": "base-017", "name": "Draco EX", "type": "DRAGON", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/5_hires.png", "number": 17, "hp": 180 },
+        { "id": "base-016", "name": "Minidraco", "type": "DRAGON", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/53_hires.png", "number": 16, "hp": 50, "description": "" },
+        { "id": "base-017", "name": "Draco EX", "type": "DRAGON", "rarity": 0, "isEX": true, "imageUrl": "https://images.pokemontcg.io/base1/5_hires.png", "number": 17, "hp": 180, "description": "" },
 
-        { "id": "base-018", "name": "Évoli", "type": "NORMAL", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/51_hires.png", "number": 18, "hp": 50 },
-        { "id": "base-019", "name": "Aquali", "type": "EAU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/28_hires.png", "number": 19, "hp": 70 },
-        { "id": "base-020", "name": "Pyroli", "type": "FEU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png", "number": 20, "hp": 70 },
-
-        { "id": "base-021", "name": "Aspicot", "type": "PLANTE", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/69_hires.png", "number": 21, "hp": 40 },
-        { "id": "base-022", "name": "Coconfort", "type": "PLANTE", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/54_hires.png", "number": 22, "hp": 70 },
-        { "id": "base-023", "name": "Dardargnan", "type": "PLANTE", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/17_hires.png", "number": 23, "hp": 80 },
-
-        { "id": "base-024", "name": "Roucool", "type": "NORMAL", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/57_hires.png", "number": 24, "hp": 40 },
-        { "id": "base-025", "name": "Roucoups", "type": "NORMAL", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/39_hires.png", "number": 25, "hp": 60 },
-        { "id": "base-026", "name": "Roucarnage", "type": "NORMAL", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/8_hires.png", "number": 26, "hp": 100 },
-
-        { "id": "base-027", "name": "Rattata", "type": "NORMAL", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/61_hires.png", "number": 27, "hp": 30 },
-        { "id": "base-028", "name": "Rattatac", "type": "NORMAL", "rarity": 2, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/40_hires.png", "number": 28, "hp": 60 }
+        { "id": "base-018", "name": "Évoli", "type": "NORMAL", "rarity": 1, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/51_hires.png", "number": 18, "hp": 50, "description": "" },
+        { "id": "base-019", "name": "Aquali", "type": "EAU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/28_hires.png", "number": 19, "hp": 70, "description": "" },
+        { "id": "base-020", "name": "Pyroli", "type": "FEU", "rarity": 3, "isEX": false, "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png", "number": 20, "hp": 70, "description": "" }
       ]
     }
   ]
