@@ -224,7 +224,113 @@
           "number": 20,
           "hp": 70,
           "description": "Il accumule de la chaleur dans ses cellules. Quand il souffle, un souffle enflammé sort."
-        }
+        },
+    {
+  "id": "swsh1",
+  "name": "Sword & Shield",
+  "cards": [
+    {
+      "id": "swsh1-025",
+      "name": "Pikachu",
+      "type": "ELECTRIK",
+      "rarity": 1,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/25_hires.png",
+      "number": 25,
+      "hp": 70
+    },
+    {
+      "id": "swsh1-026",
+      "name": "Raichu",
+      "type": "ELECTRIK",
+      "rarity": 2,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/26_hires.png",
+      "number": 26,
+      "hp": 120
+    },
+    {
+      "id": "swsh1-030",
+      "name": "Salamèche",
+      "type": "FEU",
+      "rarity": 1,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/30_hires.png",
+      "number": 30,
+      "hp": 70
+    },
+    {
+      "id": "swsh1-031",
+      "name": "Reptincel",
+      "type": "FEU",
+      "rarity": 2,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/31_hires.png",
+      "number": 31,
+      "hp": 90
+    },
+    {
+      "id": "swsh1-032",
+      "name": "Dracaufeu V",
+      "type": "FEU",
+      "rarity": 4,
+      "isEX": true,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/32_hires.png",
+      "number": 32,
+      "hp": 220
+    },
+    {
+      "id": "swsh1-049",
+      "name": "Carapuce",
+      "type": "EAU",
+      "rarity": 1,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/49_hires.png",
+      "number": 49,
+      "hp": 60
+    },
+    {
+      "id": "swsh1-050",
+      "name": "Carabaffe",
+      "type": "EAU",
+      "rarity": 2,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/50_hires.png",
+      "number": 50,
+      "hp": 90
+    },
+    {
+      "id": "swsh1-051",
+      "name": "Tortank",
+      "type": "EAU",
+      "rarity": 3,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/51_hires.png",
+      "number": 51,
+      "hp": 170
+    },
+    {
+      "id": "swsh1-140",
+      "name": "Évoli",
+      "type": "NORMAL",
+      "rarity": 1,
+      "isEX": false,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/140_hires.png",
+      "number": 140,
+      "hp": 60
+    },
+    {
+      "id": "swsh1-141",
+      "name": "Ronflex V",
+      "type": "NORMAL",
+      "rarity": 4,
+      "isEX": true,
+      "imageUrl": "https://images.pokemontcg.io/swsh1/141_hires.png",
+      "number": 141,
+      "hp": 220
+    }
+  ]
+}
       ]
     }
   ]
