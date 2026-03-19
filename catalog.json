@@ -13,8 +13,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/44_hires.png",
           "number": 1,
-          "hp": 40,
-          "description": "Il y a une graine sur son dos. Elle grandit avec lui depuis sa naissance."
+          "hp": 40
         },
         {
           "id": "base-002",
@@ -24,8 +23,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png",
           "number": 2,
-          "hp": 60,
-          "description": "Quand le bulbe sur son dos commence à gonfler, une agréable odeur s'en dégage."
+          "hp": 60
         },
         {
           "id": "base-003",
@@ -35,8 +33,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/15_hires.png",
           "number": 3,
-          "hp": 80,
-          "description": "La grande fleur sur son dos utilise la lumière solaire pour sa photosynthèse."
+          "hp": 80
         },
         {
           "id": "base-004",
@@ -46,8 +43,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/46_hires.png",
           "number": 4,
-          "hp": 50,
-          "description": "La flamme au bout de sa queue indique son état. Elle vacille si le Pokémon est en bonne santé."
+          "hp": 50
         },
         {
           "id": "base-005",
@@ -57,8 +53,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/40_hires.png",
           "number": 5,
-          "hp": 70,
-          "description": "Quand il prend de l'assurance et de la puissance, les flammes de sa queue deviennent plus grandes."
+          "hp": 70
         },
         {
           "id": "base-006",
@@ -68,8 +63,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/4_hires.png",
           "number": 6,
-          "hp": 120,
-          "description": "Il crache un feu si chaud qu'il fait fondre les rochers. Ses ailes lui permettent de voler."
+          "hp": 120
         },
         {
           "id": "base-007",
@@ -79,8 +73,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/47_hires.png",
           "number": 7,
-          "hp": 40,
-          "description": "Sa carapace est solide comme du roc. Il la retire pour dormir."
+          "hp": 40
         },
         {
           "id": "base-008",
@@ -90,8 +83,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/42_hires.png",
           "number": 8,
-          "hp": 60,
-          "description": "Sa carapace se durcit peu après sa naissance. Il pulvérise de l'eau depuis la bouche."
+          "hp": 60
         },
         {
           "id": "base-009",
@@ -101,8 +93,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/16_hires.png",
           "number": 9,
-          "hp": 100,
-          "description": "Une fois qu'il a verrouillé sa cible, il ne la rate jamais avec ses puissants jets d'eau."
+          "hp": 100
         },
         {
           "id": "base-010",
@@ -112,8 +103,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/58_hires.png",
           "number": 10,
-          "hp": 40,
-          "description": "Quand plusieurs se rassemblent, leur électricité peut provoquer des orages."
+          "hp": 40
         },
         {
           "id": "base-011",
@@ -123,8 +113,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/14_hires.png",
           "number": 11,
-          "hp": 80,
-          "description": "Il peut stocker 100 000 volts. Si la charge devient trop grande, il décharge autour de lui."
+          "hp": 80
         },
         {
           "id": "base-012",
@@ -134,8 +123,7 @@
           "isEX": true,
           "imageUrl": "https://images.pokemontcg.io/base1/10_hires.png",
           "number": 12,
-          "hp": 150,
-          "description": "Il a été créé par manipulation génétique. Son ADN est presque identique à celui de Mew."
+          "hp": 150
         },
         {
           "id": "base-013",
@@ -143,10 +131,9 @@
           "type": "PSY",
           "rarity": 1,
           "isEX": false,
-          "imageUrl": "https://images.pokemontcg.io/base1/43_hires.png",
+          "imageUrl": "https://images.pokemontcg.io/base1/49_hires.png",
           "number": 13,
-          "hp": 30,
-          "description": "Il dort 18h par jour mais peut utiliser ses pouvoirs psioniques même en dormant."
+          "hp": 30
         },
         {
           "id": "base-014",
@@ -156,8 +143,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/52_hires.png",
           "number": 14,
-          "hp": 50,
-          "description": "Il maîtrise de nombreuses techniques de combat. Il affronte des Pokémon bien plus puissants."
+          "hp": 50
         },
         {
           "id": "base-015",
@@ -167,8 +153,7 @@
           "isEX": true,
           "imageUrl": "https://images.pokemontcg.io/base1/8_hires.png",
           "number": 15,
-          "hp": 140,
-          "description": "Ses quatre bras se déplacent si vite qu'ils sont invisibles. Chaque poing peut frapper 500 fois par seconde."
+          "hp": 140
         },
         {
           "id": "base-016",
@@ -178,8 +163,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/53_hires.png",
           "number": 16,
-          "hp": 50,
-          "description": "Ce Pokémon est rare dans la nature. On dit qu'il vit dans les abysses de lacs immenses."
+          "hp": 50
         },
         {
           "id": "base-017",
@@ -189,8 +173,7 @@
           "isEX": true,
           "imageUrl": "https://images.pokemontcg.io/base1/5_hires.png",
           "number": 17,
-          "hp": 180,
-          "description": "Ce Pokémon est si rare qu'il est dit comme mythique. Des tempêtes violentes se déclenchent à son passage."
+          "hp": 180
         },
         {
           "id": "base-018",
@@ -200,8 +183,7 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/51_hires.png",
           "number": 18,
-          "hp": 50,
-          "description": "Son code génétique instable lui permet d'évoluer en plusieurs formes différentes."
+          "hp": 50
         },
         {
           "id": "base-019",
@@ -209,10 +191,9 @@
           "type": "EAU",
           "rarity": 3,
           "isEX": false,
-          "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png",
+          "imageUrl": "https://images.pokemontcg.io/base1/28_hires.png",
           "number": 19,
-          "hp": 70,
-          "description": "Ses cellules peuvent retenir de l'eau. Il contrôle l'eau librement."
+          "hp": 70
         },
         {
           "id": "base-020",
@@ -222,115 +203,114 @@
           "isEX": false,
           "imageUrl": "https://images.pokemontcg.io/base1/19_hires.png",
           "number": 20,
-          "hp": 70,
-          "description": "Il accumule de la chaleur dans ses cellules. Quand il souffle, un souffle enflammé sort."
+          "hp": 70
+        }
+      ]
+    },
+    {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "cards": [
+        {
+          "id": "swsh1-025",
+          "name": "Pikachu",
+          "type": "ELECTRIK",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/25_hires.png",
+          "number": 25,
+          "hp": 70
         },
-    {
-  "id": "swsh1",
-  "name": "Sword & Shield",
-  "cards": [
-    {
-      "id": "swsh1-025",
-      "name": "Pikachu",
-      "type": "ELECTRIK",
-      "rarity": 1,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/25_hires.png",
-      "number": 25,
-      "hp": 70
-    },
-    {
-      "id": "swsh1-026",
-      "name": "Raichu",
-      "type": "ELECTRIK",
-      "rarity": 2,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/26_hires.png",
-      "number": 26,
-      "hp": 120
-    },
-    {
-      "id": "swsh1-030",
-      "name": "Salamèche",
-      "type": "FEU",
-      "rarity": 1,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/30_hires.png",
-      "number": 30,
-      "hp": 70
-    },
-    {
-      "id": "swsh1-031",
-      "name": "Reptincel",
-      "type": "FEU",
-      "rarity": 2,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/31_hires.png",
-      "number": 31,
-      "hp": 90
-    },
-    {
-      "id": "swsh1-032",
-      "name": "Dracaufeu V",
-      "type": "FEU",
-      "rarity": 4,
-      "isEX": true,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/32_hires.png",
-      "number": 32,
-      "hp": 220
-    },
-    {
-      "id": "swsh1-049",
-      "name": "Carapuce",
-      "type": "EAU",
-      "rarity": 1,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/49_hires.png",
-      "number": 49,
-      "hp": 60
-    },
-    {
-      "id": "swsh1-050",
-      "name": "Carabaffe",
-      "type": "EAU",
-      "rarity": 2,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/50_hires.png",
-      "number": 50,
-      "hp": 90
-    },
-    {
-      "id": "swsh1-051",
-      "name": "Tortank",
-      "type": "EAU",
-      "rarity": 3,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/51_hires.png",
-      "number": 51,
-      "hp": 170
-    },
-    {
-      "id": "swsh1-140",
-      "name": "Évoli",
-      "type": "NORMAL",
-      "rarity": 1,
-      "isEX": false,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/140_hires.png",
-      "number": 140,
-      "hp": 60
-    },
-    {
-      "id": "swsh1-141",
-      "name": "Ronflex V",
-      "type": "NORMAL",
-      "rarity": 4,
-      "isEX": true,
-      "imageUrl": "https://images.pokemontcg.io/swsh1/141_hires.png",
-      "number": 141,
-      "hp": 220
-    }
-  ]
-}
+        {
+          "id": "swsh1-026",
+          "name": "Raichu",
+          "type": "ELECTRIK",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/26_hires.png",
+          "number": 26,
+          "hp": 120
+        },
+        {
+          "id": "swsh1-030",
+          "name": "Salamèche",
+          "type": "FEU",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/30_hires.png",
+          "number": 30,
+          "hp": 70
+        },
+        {
+          "id": "swsh1-031",
+          "name": "Reptincel",
+          "type": "FEU",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/31_hires.png",
+          "number": 31,
+          "hp": 90
+        },
+        {
+          "id": "swsh1-032",
+          "name": "Dracaufeu V",
+          "type": "FEU",
+          "rarity": 4,
+          "isEX": true,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/32_hires.png",
+          "number": 32,
+          "hp": 220
+        },
+        {
+          "id": "swsh1-049",
+          "name": "Carapuce",
+          "type": "EAU",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/49_hires.png",
+          "number": 49,
+          "hp": 60
+        },
+        {
+          "id": "swsh1-050",
+          "name": "Carabaffe",
+          "type": "EAU",
+          "rarity": 2,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/50_hires.png",
+          "number": 50,
+          "hp": 90
+        },
+        {
+          "id": "swsh1-051",
+          "name": "Tortank",
+          "type": "EAU",
+          "rarity": 3,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/51_hires.png",
+          "number": 51,
+          "hp": 170
+        },
+        {
+          "id": "swsh1-140",
+          "name": "Évoli",
+          "type": "NORMAL",
+          "rarity": 1,
+          "isEX": false,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/140_hires.png",
+          "number": 140,
+          "hp": 60
+        },
+        {
+          "id": "swsh1-141",
+          "name": "Ronflex V",
+          "type": "NORMAL",
+          "rarity": 4,
+          "isEX": true,
+          "imageUrl": "https://images.pokemontcg.io/swsh1/141_hires.png",
+          "number": 141,
+          "hp": 220
+        }
       ]
     }
   ]
